@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A3GpMbtorC0pajYkgTXK0K0XS/r+xLAgRZJEanVGZSBuGGk9im7HWtZddEkgT8Y+6q1sUZfS9xxp9sStZkPSYw==",
+  "success": true,
+  "projectFilePath": "/Users/cfebbert/proj/Software/Develop/KnightKrawler/DungeonKrawler/DungeonKrawler.csproj",
+  "expectedPackageFiles": [
+    "/Users/cfebbert/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.16/microsoft.netcore.app.host.osx-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

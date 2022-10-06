@@ -1,0 +1,16 @@
+/Users/cfebbert/proj/Software/Develop/KnightKrawler/DungeonKrawler/bin/Debug/net5.0/DungeonKrawler
+/Users/cfebbert/proj/Software/Develop/KnightKrawler/DungeonKrawler/bin/Debug/net5.0/DungeonKrawler.deps.json
+/Users/cfebbert/proj/Software/Develop/KnightKrawler/DungeonKrawler/bin/Debug/net5.0/DungeonKrawler.runtimeconfig.json
+/Users/cfebbert/proj/Software/Develop/KnightKrawler/DungeonKrawler/bin/Debug/net5.0/DungeonKrawler.runtimeconfig.dev.json
+/Users/cfebbert/proj/Software/Develop/KnightKrawler/DungeonKrawler/bin/Debug/net5.0/DungeonKrawler.dll
+/Users/cfebbert/proj/Software/Develop/KnightKrawler/DungeonKrawler/bin/Debug/net5.0/DungeonKrawler.pdb
+/Users/cfebbert/proj/Software/Develop/KnightKrawler/DungeonKrawler/obj/Debug/net5.0/DungeonKrawler.csproj.AssemblyReference.cache
+/Users/cfebbert/proj/Software/Develop/KnightKrawler/DungeonKrawler/obj/Debug/net5.0/DungeonKrawler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cfebbert/proj/Software/Develop/KnightKrawler/DungeonKrawler/obj/Debug/net5.0/DungeonKrawler.AssemblyInfoInputs.cache
+/Users/cfebbert/proj/Software/Develop/KnightKrawler/DungeonKrawler/obj/Debug/net5.0/DungeonKrawler.AssemblyInfo.cs
+/Users/cfebbert/proj/Software/Develop/KnightKrawler/DungeonKrawler/obj/Debug/net5.0/DungeonKrawler.csproj.CoreCompileInputs.cache
+/Users/cfebbert/proj/Software/Develop/KnightKrawler/DungeonKrawler/obj/Debug/net5.0/DungeonKrawler.dll
+/Users/cfebbert/proj/Software/Develop/KnightKrawler/DungeonKrawler/obj/Debug/net5.0/refint/DungeonKrawler.dll
+/Users/cfebbert/proj/Software/Develop/KnightKrawler/DungeonKrawler/obj/Debug/net5.0/DungeonKrawler.pdb
+/Users/cfebbert/proj/Software/Develop/KnightKrawler/DungeonKrawler/obj/Debug/net5.0/DungeonKrawler.genruntimeconfig.cache
+/Users/cfebbert/proj/Software/Develop/KnightKrawler/DungeonKrawler/obj/Debug/net5.0/ref/DungeonKrawler.dll
